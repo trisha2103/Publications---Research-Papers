@@ -235,7 +235,7 @@ If you find this work useful, please cite:
 
 **Trisha Veronica M. Y.**
 Masters in Business Analytics with Big Data
-University of Massachusetts Boston
+University of Massachusetts Boston, 
 Bachelors in Computer Science and Engineering
 Saveetha University, India
 🔗 GitHub: [@trisha2103](https://github.com/trisha2103)
