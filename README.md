@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About the Researcher
 
-**Trisha Veronica M. Y.** is a researcher in the Department of Computer Science and Engineering at Saveetha University, India, specializing in **medical image analysis** and **deep learning**. Her work focuses on building and benchmarking state-of-the-art neural network architectures to support early and accurate diagnosis of bone fractures from X-ray imagery.
+**Trisha Veronica M. Y.** was a researcher in the Department of Computer Science and Engineering at Saveetha University, India, specializing in **medical image analysis** and **deep learning**. Her work focuses on building and benchmarking state-of-the-art neural network architectures to support early and accurate diagnosis of bone fractures from X-ray imagery. Now she graduated doing Masters in Business Analytics from University Of Massachusetts Boston.
 
 ---
 
@@ -234,7 +234,9 @@ If you find this work useful, please cite:
 ## 📬 Contact
 
 **Trisha Veronica M. Y.**
-Department of Computer Science and Engineering
+Masters in Business Analytics with Big Data
+University of Massachusetts Boston
+Bachelors in Computer Science and Engineering
 Saveetha University, India
 🔗 GitHub: [@trisha2103](https://github.com/trisha2103)
 
